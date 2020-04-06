@@ -1,0 +1,28 @@
+#num1{
+	  -fx-font-size: 12pt;
+	  -fx-text-fill: #575e66;
+	  -fx-text-inner-color: red;
+}
+
+#label1{
+	  -fx-text-fill: #575e66;
+}
+#label2{
+	  -fx-text-fill: #575e66;
+}
+
+#vbox{
+	-fx-background-color : #FFFFFF;
+}
+#button{
+	  -fx-text-fill: #FFFFFF;
+	  -fx-background-color : #0095FF;
+}
+#button:hover{
+	-fx-background-color : #0077cc;
+	
+}
+#titulo{
+	  -fx-text-fill: #535A60;
+	  
+}
